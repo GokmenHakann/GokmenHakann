@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GokmenHakann
+- 👀 I’m interested in evertyhing 
+- 🌱 I’m currently learning Java and SQL
+- 📫 How to reach me -----> ghakan317@gmail.com
