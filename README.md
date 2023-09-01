@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GokmenHakann
 - 👀 I’m interested in evertyhing 
 - 🌱 I’m currently learning Java, Swift and still js.
-- 📫 How to reach me -----> gokmenhakan.com
+- 📫 How to reach me -----> www.gokmenhakan.com
